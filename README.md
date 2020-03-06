@@ -1,2 +1,3 @@
 # String-Manipulator
- String manipulation in C
+
+String manipulation in C
